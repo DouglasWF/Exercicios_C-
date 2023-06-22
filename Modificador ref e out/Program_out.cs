@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Course
 {
-    class Programa
+    class rograma
     {
         static void Main(string[] args)
         {
